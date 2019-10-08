@@ -96,12 +96,12 @@
  <tileset firstgid="31" name="Tiles" tilewidth="1" tileheight="1" tilecount="0" columns="0"/>
  <layer id="1" name="Platforms" width="40" height="30">
   <data encoding="base64" compression="zlib">
-   eAHtkLsOAjEMBA9ooeb//5RMsWhl5UgunKBZS5Ydx4/RblssCkSBKBAFokAUiAJRIApEgSiwrsCtjcrXt5w7KR6P13NPfLXt0qars/BfjK4TeWXjLfs1o9h6TF4TH3GWkb6HDx7Mq1ZHxkeM/OPcGDHeW8+z49KO6Pd6uvVqPtNWvE1sKuwx0geX797LtYvoPar3avxVRrGhiXL0q4z81528ZZ5rj9fUN4rMiHFGC7/FrJw7ft9zzRDVPxvFtjLrNz7xeZ+zzuTslb0A9UAB9Q==
+   eAHtlrtuwzAMRd20zZQC2fL/f1rd4QQXAkNTthoPNQGCNMXHEZUhy3LKuYFzA/9pAx/tsq7Z3T1P/jtkZOZI7qXBo3vv4XOzXtW8rEd09t2CrlHOkTGxIe4Tm2U/WyPpiLA3avieyVnl4vf4BUxi4YxSri2IRuceG2HzuoqfMWb12gNclfdU/lYZfWfx8E6VmX4P6rCVeuVU98isat8sf8tO9bt1FTd31ayqwJXV0HcLZ5Wjz6tw9TXv+p7Bdv8D2BlcYNFr75vTx+3enjDOsP4/AV99j2L0PcmHyS33HmH0vtQrNiL0cJbI955VRuX9eKH5Oltj1bmzWPmqu8aocxheMWqIGG5NH4GyO1mfFzFHMa9pLZ4CGwH1jxiVJy7v/cqnl6znEI9iOusZYdNO8MXWM+q876lvxH36eIy8NasaGCu78FmqRTXH57tPjSz5VQvbllqfkfF5nrNWfPVFfgFCNwM1
   </data>
  </layer>
  <layer id="2" name="Coins" width="40" height="30">
   <data encoding="base64" compression="zlib">
-   eAHtklEOABEMBbmB+59W+tFEZBtSgmX8lNLX14kQWBCAAAQgAAEIQAACEICAl0DyFl5QJ7P/bf6dfrW3RusLtO6tupX5Fz3qzHUc4a5aXo3R+p6+K3qIj9hjxnjz5bHMlXuRqM+G7NT0jp5TBzhALAPu4AFC
+   eAHtlFsOAyEIRac76P5X2/JxEkJVRCXaRJMJDo/DlTHzPHfdCdwJ3AnMT+D9RfDM0/YROIO2+9T8dhZdeqFT+1bsR7lWn2gZZdXOAa9kdY2Oa39tT76N4xfrrZ4cYfTm2X5osX7vPVI3qg0NkfqILuGTH+mBLqzH8OJwrJ3RZFnyrnWU9qWako/aUmyn71RdMhPRduJaPbNVvFWcE2eeoYn7hc3o8U/MyP15JRxM+sPt+SbkWJsgrftfhJYMDTUmPZmd5LEnVqtt+WG0crxYq7/mt/K8Hje+bwIfR2oFVw==
   </data>
  </layer>
 </map>
